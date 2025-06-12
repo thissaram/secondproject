@@ -1,4 +1,5 @@
 import streamlit as st
+
 from PIL import Image
 
 # 빵 추천 데이터 (날씨별)
